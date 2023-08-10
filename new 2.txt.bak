@@ -1,0 +1,7 @@
+potentiometer  ---- pb1             ADC1
+leds pd 12 13 14 15            
+button pa0                   
+rain pc2                            ADC2         
+buzzer pb 3                 
+moteur   pb4                                   
+lcd        sda = pb7 scl = pb6       II2c1
